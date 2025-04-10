@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/97ddad97-5d77-40b6-8fa3-35e2e034a97d"  alt="Muhammad Fiaz's Portfolio"/>
+  <img src="https://github.com/user-attachments/assets/97ddad97-5d77-40b6-8fa3-35e2e034a97d"  alt="Teukurizal Portfolio"/>
 </p>
 
 <div align="center">
@@ -74,7 +74,7 @@ if you have any suggestions or feedback, feel free to open an [issue](https://gi
 
 To run the project locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/muhammad-fiaz/portfolio.git`
+1. Clone the repository: `git clone https://github.com/Axeelxry/Teukurizal.git`
 2. Navigate to the project directory: `cd portfolio`
 3. Install the dependencies: `npm install`
 4. Start the development server: `npm run dev`
