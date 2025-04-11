@@ -1,6 +1,6 @@
 'use client';
 import React from 'react';
-import { siteConfig } from '@/src/configs/config';
+import { siteConfig } from '@/configs/config';
 import { Button } from '@nextui-org/button';
 
 const SupportMe = () => {
