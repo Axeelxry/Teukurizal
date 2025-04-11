@@ -4,9 +4,9 @@ import Link from 'next/link';
 import HeaderAnimation from '../utils/HeaderAnimation';
 import MobileMenuNav from './MobileMenuNav';
 import NavItem from './NavItem';
-import { siteConfig } from '@/src/configs/config';
-import ThemeToggle from '@/src/components/utils/ThemeToggle';
-import AuthAvatar from '@/src/components/ui/AuthAvatar';
+import { siteConfig } from '@/configs/config';
+import ThemeToggle from '@/components/utils/ThemeToggle';
+import AuthAvatar from '@/components/ui/AuthAvatar';
 
 const Header = () => {
   return (
