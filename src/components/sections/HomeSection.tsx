@@ -6,12 +6,12 @@ import CurrentTimeLineExp from '../content/CurrentTimeLineExp';
 import Hero from '../content/Hero';
 import AnimationContainer from '../utils/AnimationContainer';
 import SectionContainer from '../utils/SectionContainer';
-import SupportMe from '@/src/components/content/SupportMe';
-import FAQSection from '@/src/components/sections/FAQSection';
-import StatsSection from '@/src/components/sections/StatsSection';
-import SkillsSection from '@/src/components/sections/SkillsSection';
-import HolopinBadges from '@/src/components/content/HolopinBadges';
-import DevCard from '@/src/components/content/DevCard';
+import SupportMe from '@/components/content/SupportMe';
+import FAQSection from '@/components/sections/FAQSection';
+import StatsSection from '@/components/sections/StatsSection';
+import SkillsSection from '@/components/sections/SkillsSection';
+import HolopinBadges from '@/components/content/HolopinBadges';
+import DevCard from '@/components/content/DevCard';
 
 const HomeSection = () => {
   return (
