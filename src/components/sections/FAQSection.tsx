@@ -1,8 +1,8 @@
 'use client';
 import { Accordion, AccordionItem } from '@nextui-org/react';
 import React from 'react';
-import AnimationContainer from '@/src/components/utils/AnimationContainer';
-import SectionHeader from '@/src/components/ui/SectionHeader';
+import AnimationContainer from '@/components/utils/AnimationContainer';
+import SectionHeader from '@/components/ui/SectionHeader';
 
 import { faqData } from '@/src/configs/faq';
 import Script from 'next/script';
