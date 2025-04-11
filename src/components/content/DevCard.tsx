@@ -1,9 +1,9 @@
 import React from 'react';
 import Image from 'next/image';
-import AnimationContainer from '@/src/components/utils/AnimationContainer';
-import SectionHeader from '@/src/components/ui/SectionHeader';
+import AnimationContainer from '@/components/utils/AnimationContainer';
+import SectionHeader from '@/components/ui/SectionHeader';
 import Link from 'next/link';
-import { siteConfig } from '@/src/configs/config';
+import { siteConfig } from '@/configs/config';
 import TiltedCard from './effect/TiltedCard';
 
 const DevCard: React.FC = () => (
