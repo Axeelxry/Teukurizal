@@ -1,6 +1,6 @@
 // app/manifest.ts
 import type { MetadataRoute } from 'next';
-import { siteConfig } from '@/src/configs/config';
+import { siteConfig } from '@/configs/config';
 
 // The manifest function returns a metadata object conforming to the MetadataRoute.Manifest type
 export default function manifest(): MetadataRoute.Manifest {
