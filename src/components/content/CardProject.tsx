@@ -1,7 +1,7 @@
 'use client';
 import ExternalLink from '../ui/ExternalLink';
 import AnimationContainer from '../utils/AnimationContainer';
-import { CardProjectProps } from '@/src/types';
+import { CardProjectProps } from '@/types';
 import { useEffect, useState } from 'react';
 import { Button } from '@nextui-org/button';
 
