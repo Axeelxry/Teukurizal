@@ -3,8 +3,8 @@
 import Link from 'next/link';
 import AnimationContainer from '../utils/AnimationContainer';
 import ExternalLink from './ExternalLink';
-import { siteConfig } from '@/src/configs/config';
-import Credits from '@/src/components/ui/Credits';
+import { siteConfig } from '@/configs/config';
+import Credits from '@/components/ui/Credits';
 
 const Footer = () => {
   return (
