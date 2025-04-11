@@ -3,7 +3,7 @@
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
 import clsx from 'clsx';
-import { NavItemHeaderAnimation } from '@/src/types';
+import { NavItemHeaderAnimation } from '@/types';
 
 export const navItemsSelected: { [key: string]: NavItemHeaderAnimation } = {
   '/': {
