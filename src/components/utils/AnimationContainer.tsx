@@ -1,7 +1,7 @@
 'use client';
 
 import { motion } from 'framer-motion';
-import { AnimationContainerProps } from '@/src/types';
+import { AnimationContainerProps } from '@/types';
 
 const AnimationContainer = ({
   children,
