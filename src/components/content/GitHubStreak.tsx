@@ -1,7 +1,7 @@
 import React, { useRef, useEffect, useState } from "react";
-import AnimationContainer from "@/src/components/utils/AnimationContainer";
-import Crosshair from "@/src/components/content/effect/Crosshair"; // Pastikan path ini sesuai
-import ShapeBlur from "@/src/components/content/effect/ShapeBlur";
+import AnimationContainer from "@/components/utils/AnimationContainer";
+import Crosshair from "@/components/content/effect/Crosshair"; // Pastikan path ini sesuai
+import ShapeBlur from "@/components/content/effect/ShapeBlur";
 
 const GitHubStreak: React.FC = () => {
   const containerRef = useRef(null);
