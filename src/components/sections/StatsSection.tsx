@@ -1,10 +1,10 @@
 'use client';
 import React from 'react';
-import GitHubStreak from '@/src/components/content/GitHubStreak';
-import GitHubTrophies from '@/src/components/content/GitHubTrophies';
-import GitHubContributionHistory from '@/src/components/content/GitHubContributionHistory';
-import SectionHeader from '@/src/components/ui/SectionHeader';
-import AnimationContainer from '@/src/components/utils/AnimationContainer';
+import GitHubStreak from '@/components/content/GitHubStreak';
+import GitHubTrophies from '@/components/content/GitHubTrophies';
+import GitHubContributionHistory from '@/components/content/GitHubContributionHistory';
+import SectionHeader from '@/components/ui/SectionHeader';
+import AnimationContainer from '@/components/utils/AnimationContainer';
 
 const StatsSection: React.FC = () => {
   return (
