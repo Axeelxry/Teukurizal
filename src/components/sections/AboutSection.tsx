@@ -1,14 +1,14 @@
 'use client';
 import AnimationContainer from '../utils/AnimationContainer';
-import { siteConfig } from '@/src/configs/config';
+import { siteConfig } from '@/configs/config';
 import CurrentTimeLineExp from '../content/CurrentTimeLineExp';
 import TitleSectionPageContainer from '../utils/TitleSectionPageContainer';
 import SectionContainer from '../utils/SectionContainer';
 import Link from 'next/link';
-import ContactMe from '@/src/components/content/ContactMe';
-import SupportMe from '@/src/components/content/SupportMe';
-import FAQSection from '@/src/components/sections/FAQSection';
-import SkillsSection from '@/src/components/sections/SkillsSection';
+import ContactMe from '@/components/content/ContactMe';
+import SupportMe from '@/components/content/SupportMe';
+import FAQSection from '@/components/sections/FAQSection';
+import SkillsSection from '@/components/sections/SkillsSection';
 
 const AboutSection = () => {
   return (
