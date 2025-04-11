@@ -1,16 +1,16 @@
 'use client';
 import React, { useEffect, useState } from 'react';
 import AnimationContainer from '../utils/AnimationContainer';
-import { siteConfig } from '@/src/configs/config';
-import { CardProjectProps } from '@/src/types';
+import { siteConfig } from '@/configs/config';
+import { CardProjectProps } from '@/types';
 import SectionContainer from '../utils/SectionContainer';
 import TitleSectionPageContainer from '../utils/TitleSectionPageContainer';
-import CardProject from '@/src/components/content/CardProject';
+import CardProject from '@/components/content/CardProject';
 import Link from 'next/link';
 import { Skeleton } from '../ui/skeleton';
 import Script from 'next/script';
 import { usePathname } from 'next/navigation';
-import SearchInput from '@/src/components/ui/SearchInput';
+import SearchInput from '@/components/ui/SearchInput';
 
 const ProjectsSection = () => {
   const [projectSearch, setProjectSearch] = useState<string>('');
