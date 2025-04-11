@@ -1,8 +1,8 @@
 'use client';
 import classNames from 'classnames';
 import AnimationContainer from '../utils/AnimationContainer';
-import { TimelineEventProps } from '@/src/types';
-import SectionHeader from '@/src/components/ui/SectionHeader';
+import { TimelineEventProps } from '@/types';
+import SectionHeader from '@/components/ui/SectionHeader';
 import MetaBalls from './effect/MetaBalls';
 
 
