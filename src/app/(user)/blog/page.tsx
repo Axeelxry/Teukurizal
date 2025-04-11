@@ -1,5 +1,5 @@
-import BlogSection from '@/src/components/sections/BlogSection';
-import { generateMetadata as getPageMetadata } from '@/src/components/utils/generateMetadata';
+import BlogSection from '@/components/sections/BlogSection';
+import { generateMetadata as getPageMetadata } from '@/components/utils/generateMetadata';
 
 export async function generateMetadata() {
   return getPageMetadata({
