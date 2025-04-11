@@ -1,8 +1,8 @@
 'use client';
 
 import Image from 'next/image';
-import AnimationContainer from '@/src/components/utils/AnimationContainer';
-import SectionHeader from '@/src/components/ui/SectionHeader';
+import AnimationContainer from '@/components/utils/AnimationContainer';
+import SectionHeader from '@/components/ui/SectionHeader';
 import React from 'react';
 
 const MySkills = () => {
