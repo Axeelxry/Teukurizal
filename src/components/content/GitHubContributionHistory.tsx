@@ -1,7 +1,7 @@
 import React from 'react';
 import Image from 'next/image';
-import AnimationContainer from '@/src/components/utils/AnimationContainer';
-import { siteConfig } from '@/src/configs/config';
+import AnimationContainer from '@/components/utils/AnimationContainer';
+import { siteConfig } from '@/configs/config';
 
 const GitHubContributionHistory: React.FC = () => (
   <AnimationContainer customClassName="w-full mt-16">
