@@ -1,9 +1,9 @@
 'use client';
 import React, { useEffect, useState } from 'react';
 import AnimationContainer from '../utils/AnimationContainer';
-import { siteConfig } from '@/src/configs/config';
+import { siteConfig } from '@/configs/config';
 import { Button, Input, Textarea } from '@nextui-org/react';
-import SectionHeader from '@/src/components/ui/SectionHeader';
+import SectionHeader from '@/components/ui/SectionHeader';
 
 const ContactMe = () => {
   const [isSubmitted, setIsSubmitted] = useState(false);
