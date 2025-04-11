@@ -1,8 +1,8 @@
 'use client';
 
 import AnimationContainer from '../utils/AnimationContainer';
-import { siteConfig } from '@/src/configs/config';
-import SectionHeader from '@/src/components/ui/SectionHeader';
+import { siteConfig } from '@/configs/config';
+import SectionHeader from '@/components/ui/SectionHeader';
 import ImageTrail from './effect/ImageTrail';
 import ASCIIText from './effect/ASCIIText';
 
