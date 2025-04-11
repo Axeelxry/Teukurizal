@@ -1,7 +1,7 @@
 'use client';
 
 import { motion } from 'framer-motion';
-import useScrollPosition from '@/src/hooks/useScrollPosition';
+import useScrollPosition from '@/hooks/useScrollPosition';
 import React from 'react';
 
 const animation = {
