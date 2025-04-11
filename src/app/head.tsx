@@ -1,8 +1,8 @@
 'use client';
 
 import { usePathname } from 'next/navigation';
-import { generateMetadata } from '@/src/components/utils/generateMetadata';
-import { siteConfig } from '@/src/configs/config';
+import { generateMetadata } from '@/components/utils/generateMetadata'
+import { siteConfig } from '@/configs/config';
 import Script from 'next/script';
 
 const Head = () => {
