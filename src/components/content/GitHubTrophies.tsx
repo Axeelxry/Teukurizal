@@ -1,5 +1,5 @@
 import React from 'react';
-import AnimationContainer from '@/src/components/utils/AnimationContainer';
+import AnimationContainer from '@/components/utils/AnimationContainer';
 import Ballpit from './effect/Ballpit';
 
 const GitHubTrophies: React.FC = () => (
