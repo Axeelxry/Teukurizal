@@ -1,9 +1,9 @@
 'use client';
 
-import styles from '@/src/styles/mobileMenu.module.css';
+import styles from '@/styles/mobileMenu.module.css';
 import { JSX, useEffect } from 'react';
 import cn from 'classnames';
-import useMenuNav from '@/src/hooks/useMenuNav';
+import useMenuNav from '@/hooks/useMenuNav';
 import LinksMenuNav from './LinksMenuNav';
 import { Button } from '@nextui-org/button';
 
