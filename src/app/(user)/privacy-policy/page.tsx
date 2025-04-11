@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import { siteConfig } from '@/src/configs/config';
+import { siteConfig } from '@/configs/config';
 
 const PrivacyPolicy = () => {
   return (
