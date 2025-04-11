@@ -1,7 +1,7 @@
 import React from "react";
 import Image from "next/image";
-import SectionHeader from "@/src/components/ui/SectionHeader";
-import AnimationContainer from "@/src/components/utils/AnimationContainer";
+import SectionHeader from "@/components/ui/SectionHeader";
+import AnimationContainer from "@/components/utils/AnimationContainer";
 import Link from "next/link";
 import PixelTransition from "./effect/PixelTransition";
 
