@@ -1,10 +1,10 @@
 'use client';
 
 import Image from 'next/image';
-import { siteConfig } from '@/src/configs/config';
+import { siteConfig } from '@/configs/config';
 import AnimationContainer from '../utils/AnimationContainer';
 import Link from 'next/link';
-import Hyperspeed from '@/src/components/content/effect/Hyperspeed'; 
+import Hyperspeed from '@/components/content/effect/Hyperspeed'; 
 
 const Hero = () => {
   return (
