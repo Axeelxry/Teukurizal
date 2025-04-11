@@ -1,6 +1,6 @@
 'use client';
 import { Timeline, TimelineEvent } from './TimeLineExp';
-import { experienceEntries } from '@/src/configs/experience';
+import { experienceEntries } from '@/configs/experience';
 import Link from 'next/link';
 
 const CurrentTimeLineExp = () => {
