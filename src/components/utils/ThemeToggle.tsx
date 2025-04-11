@@ -1,6 +1,6 @@
 'use client';
 
-import { useTheme } from '@/src/components/utils/themeContext';
+import { useTheme } from '@/components/utils/themeContext';
 import { Button } from '@nextui-org/react';
 import { MoonIcon, SunIcon } from 'lucide-react';
 
