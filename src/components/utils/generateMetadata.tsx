@@ -1,5 +1,5 @@
 // src/utils/generateMetadata.ts
-import { siteConfig } from '@/src/configs/config';
+import { siteConfig } from '@/configs/config';
 
 interface MetadataParams {
   title?: string;
