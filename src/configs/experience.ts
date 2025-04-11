@@ -1,5 +1,5 @@
 'use client';
-import { siteConfig } from '@/src/configs/config';
+import { siteConfig } from '@/configs/config';
 
 export interface ExperienceEntry {
   title: string;
