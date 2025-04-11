@@ -1,7 +1,7 @@
 'use client';
-import { siteConfig } from '@/src/configs/config';
+import { siteConfig } from '@/configs/config';
 import Link from 'next/link';
-import AnimationContainer from '@/src/components/utils/AnimationContainer';
+import AnimationContainer from '@/components/utils/AnimationContainer';
 
 export default function NotFound() {
   return (
