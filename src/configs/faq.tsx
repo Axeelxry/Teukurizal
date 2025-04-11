@@ -1,5 +1,5 @@
 'use client';
-import { siteConfig } from '@/src/configs/config';
+import { siteConfig } from '@/configs/config';
 import Link from 'next/link';
 import { JSX } from 'react';
 
