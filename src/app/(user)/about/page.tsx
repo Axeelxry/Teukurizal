@@ -1,6 +1,6 @@
-import AboutSection from '@/src/components/sections/AboutSection';
-import { generateMetadata as getPageMetadata } from '@/src/components/utils/generateMetadata';
-import { siteConfig } from '@/src/configs/config';
+import AboutSection from '@/components/sections/AboutSection';
+import { generateMetadata as getPageMetadata } from '@/components/utils/generateMetadata';
+import { siteConfig } from '@/configs/config';
 
 export async function generateMetadata() {
   return getPageMetadata({
