@@ -1,6 +1,6 @@
 'use client';
 
-import { ExternalLinkProps } from '@/src/types';
+import { ExternalLinkProps } from '@/types';
 import Link from 'next/link';
 
 const ExternalLink = ({
