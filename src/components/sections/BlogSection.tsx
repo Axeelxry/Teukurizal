@@ -4,12 +4,12 @@ import { usePathname } from 'next/navigation';
 import AnimationContainer from '../utils/AnimationContainer';
 import SectionContainer from '../utils/SectionContainer';
 import TitleSectionPageContainer from '../utils/TitleSectionPageContainer';
-import BlogCard from '@/src/components/content/CardBlog';
-import { siteConfig } from '@/src/configs/config';
+import BlogCard from '@/components/content/CardBlog';
+import { siteConfig } from '@/configs/config';
 import Link from 'next/link';
-import { Skeleton } from '@/src/components/ui/skeleton';
+import { Skeleton } from '@/components/ui/skeleton';
 import Script from 'next/script';
-import SearchInput from '@/src/components/ui/SearchInput';
+import SearchInput from '@/components/ui/SearchInput';
 
 interface Blog {
   guid: string;
