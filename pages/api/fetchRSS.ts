@@ -1,6 +1,6 @@
 // /pages/api/fetchRSS.ts
 import Parser from 'rss-parser';
-import { siteConfig } from '@/src/configs/config';
+import { siteConfig } from '@/configs/config';
 
 // Define the type for a blog post
 interface BlogPost {
