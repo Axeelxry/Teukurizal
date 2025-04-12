@@ -1,6 +1,6 @@
 'use client';
 
-import '@/src/styles/globals.css';
+import '@/styles/globals.css';
 import clsx from 'clsx';
 import local from 'next/font/local';
 import Header from '@/components/ui/Header';
