@@ -1,5 +1,5 @@
 import { NextConfig } from 'next';
-import { validateEnvVars } from '@/src/configs/envVars';
+import { validateEnvVars } from '@/configs/envVars';
 
 // Validate and assign default values to environment variables
 validateEnvVars();
