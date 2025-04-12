@@ -1,4 +1,4 @@
-import { siteConfig } from '@/src/configs/config';
+import { siteConfig } from '@/configs/config';
 
 const GITHUB_USERNAME = siteConfig.social.github;
 const GITHUB_TOKEN = process.env.GITHUB_TOKEN;
