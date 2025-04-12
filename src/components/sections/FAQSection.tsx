@@ -4,7 +4,7 @@ import React from 'react';
 import AnimationContainer from '@/components/utils/AnimationContainer';
 import SectionHeader from '@/components/ui/SectionHeader';
 
-import { faqData } from '@/src/configs/faq';
+import { faqData } from '@/configs/faq';
 import Script from 'next/script';
 
 export default function FAQSection() {
